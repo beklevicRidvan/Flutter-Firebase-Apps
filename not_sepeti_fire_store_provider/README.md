@@ -16,6 +16,13 @@ Uygulamayı başlatıp çalıştırdıktan sonra, basit bir arayüzle karşıla�
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [rdvn.beklevic@gmail.com] adresinden bize ulaşın.
 
+### Uygulama Resimleri
+
+| Resim 1 | Resim 2 | Resim 3 | Resim 4 |
+|---------|---------|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/notsepeti1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/notsepeti2.png?raw=true) | ![Resim 3](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/notsepeti3.png?raw=true) | ![Resim 4](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/notsepeti4.png?raw=true) |
+
+
 
 
 
