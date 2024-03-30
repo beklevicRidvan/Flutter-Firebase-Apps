@@ -1,16 +1,22 @@
-# not_sepeti_fire_store_provider
+# Not Sepeti Uygulaması
 
-A new Flutter project.
+Not Sepeti, kullanıcıların basit metin notlarını oluşturmasına, görüntülemesine, düzenlemesine ve silmesine olanak tanıyan bir Flutter uygulamasıdır.
 
-## Getting Started
+## Başlarken
 
-This project is a starting point for a Flutter application.
+Bu proje, bir Flutter uygulaması oluşturmanıza olanak tanır. Notlarınızı düzenlemek ve yönetmek için kullanılabilir.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Kullanım
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Uygulamayı başlatıp çalıştırdıktan sonra, basit bir arayüzle karşılaşacaksınız. Ana ekran, mevcut notları listeleyecek ve yeni not eklemek için bir düğme sağlayacaktır. Notlar üzerinde tıklama, notu düzenleme veya silme seçenekleri sunar.
+
+
+## İletişim
+
+Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [rdvn.beklevic@gmail.com] adresinden bize ulaşın.
+
+
+
+
+
