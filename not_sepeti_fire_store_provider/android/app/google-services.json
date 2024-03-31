@@ -28,7 +28,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCBKHlb24-Ob8Tkj8sXCN0Iktg0ebIUO0g"
+          "current_key": "${{ secrets.ANDROID_KEY }}"
         }
       ],
       "services": {
