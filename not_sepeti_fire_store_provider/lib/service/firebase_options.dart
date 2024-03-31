@@ -43,17 +43,18 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCL6IT8vssDEdWcQfNBKG4ZoDaej-2TTH8',
-    appId: '1:525585669863:web:8f01c6c32212a9b66f8c42',
-    messagingSenderId: '525585669863',
-    projectId: 'flutter-firebase-dersler-cdb20',
-    authDomain: 'flutter-firebase-dersler-cdb20.firebaseapp.com',
-    storageBucket: 'flutter-firebase-dersler-cdb20.appspot.com',
-  );
+ static const FirebaseOptions web = FirebaseOptions(
+  apiKey: '${{ secrets.WEB_KEY }}',
+  appId: '1:525585669863:web:8f01c6c32212a9b66f8c42',
+  messagingSenderId: '525585669863',
+  projectId: 'flutter-firebase-dersler-cdb20',
+  authDomain: 'flutter-firebase-dersler-cdb20.firebaseapp.com',
+  storageBucket: 'flutter-firebase-dersler-cdb20.appspot.com',
+);
+
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCBKHlb24-Ob8Tkj8sXCN0Iktg0ebIUO0g',
+    apiKey: '${{ secrets.ANDROID_KEY }}',
     appId: '1:525585669863:android:a83f2e97fc3bcf686f8c42',
     messagingSenderId: '525585669863',
     projectId: 'flutter-firebase-dersler-cdb20',
@@ -61,18 +62,19 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBN_iqzAfAQuYFS8a3E9qyc8NzQ5zN8xzw',
-    appId: '1:525585669863:ios:f95c7781c2fe39eb6f8c42',
-    messagingSenderId: '525585669863',
-    projectId: 'flutter-firebase-dersler-cdb20',
-    storageBucket: 'flutter-firebase-dersler-cdb20.appspot.com',
-    androidClientId: '525585669863-krjj56i3vt6hb30e8kgsjo61uhrbald9.apps.googleusercontent.com',
-    iosClientId: '525585669863-1kqndu956g1tj095me0jt6dd60ei47u8.apps.googleusercontent.com',
-    iosBundleId: 'com.example.notSepetiFireStoreProvider',
-  );
+  apiKey: '${{ secrets.IOS_KEY }}',
+  appId: '1:525585669863:ios:f95c7781c2fe39eb6f8c42',
+  messagingSenderId: '525585669863',
+  projectId: 'flutter-firebase-dersler-cdb20',
+  storageBucket: 'flutter-firebase-dersler-cdb20.appspot.com',
+  androidClientId: '525585669863-krjj56i3vt6hb30e8kgsjo61uhrbald9.apps.googleusercontent.com',
+  iosClientId: '525585669863-1kqndu956g1tj095me0jt6dd60ei47u8.apps.googleusercontent.com',
+  iosBundleId: 'com.example.notSepetiFireStoreProvider',
+);
+
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBN_iqzAfAQuYFS8a3E9qyc8NzQ5zN8xzw',
+    apiKey: '${{ secrets.IOS_KEY }}',
     appId: '1:525585669863:ios:5caabbc1f6faa47c6f8c42',
     messagingSenderId: '525585669863',
     projectId: 'flutter-firebase-dersler-cdb20',
