@@ -9,7 +9,7 @@
 	<key>ANDROID_CLIENT_ID</key>
 	<string>525585669863-krjj56i3vt6hb30e8kgsjo61uhrbald9.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBN_iqzAfAQuYFS8a3E9qyc8NzQ5zN8xzw</string>
+	<string>"${{ secrets.IOS_KEY }}"</string>
 	<key>GCM_SENDER_ID</key>
 	<string>525585669863</string>
 	<key>PLIST_VERSION</key>

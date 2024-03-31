@@ -1,16 +1,16 @@
-# firestore_todo_app_provider
+# Firestore Todo App Provider
 
-A new Flutter project.
+Bu proje, Flutter kullanarak Firestore kullanarak yapılan bir görev yöneticisi uygulamasıdır.
 
-## Getting Started
+## Başlarken
 
-This project is a starting point for a Flutter application.
+Bu proje, Flutter geliştirme ortamınızı kurduktan sonra kolayca çalıştırılabilir.
 
-A few resources to get you started if this is your first Flutter project:
+### Kullanım
+Uygulama, kullanıcıların görevlerini yönetmelerini sağlar. Kullanıcılar görev ekleyebilir, düzenleyebilir ve silebilir.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Uygulama Resimleri 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Resim 1 | Resim 2 | Resim 3 | Resim 4 | Resim 5 | Resim 6 |
+|---------|---------|---------|---------|---------|---------|
+| ![Resim 1](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo1.png?raw=true) | ![Resim 2](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo2.png?raw=true) | ![Resim 3](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo3.png?raw=true) | ![Resim 4](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo4.png?raw=true) |![Resim 5](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo5.png?raw=true) | ![Resim 6](https://github.com/beklevicRidvan/Flutter-Firebase-Apps/blob/main/not_sepeti_fire_store_provider/assets/todo6.png?raw=true)
